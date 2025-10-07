@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35" alt="saludo" />
+  &nbsp; Hola, soy Lidia García 👩🏻‍💻
+</h1>
 
-<!--
-**Lidiagarmu/Lidiagarmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Soy una desarrolladora web junior creativa y apasionada por el <b>frontend</b> y el <b>diseño</b>.  
+Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y atractivas</b>.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em> Conóceme mejor en <b>LinkedIn</b></em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lidia-garcia-muñoz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="50" 
+         height="50" 
+         style="border-radius:50%; box-shadow: 0 0 10px #00FF9F;"/>
+  </a>
+</p>
+
+---
+<p align="center">
+  <em>🚀 Explora mis proyectos y descubre mi lado más creativo.</em>
+</p>
+
+<!-- Mano apuntando hacia abajo -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f447.png" width="40" alt="Mano hacia abajo"/>
+</p>
+
+<!-- Imagen del portfolio con borde verde brillante -->
+<p align="center">
+  <a href="https://portfolio-lidia-seven.vercel.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5d430150-3176-48de-8c48-82bcb064e004" 
+         width="750" 
+         style="border-radius:25px; border: 2px solid #00FF9F; box-shadow: 0 0 25px #00FF9F;"/>
+  </a>
+</p>
+
+---
+<p align="center">Frontend </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+</p>
+
+---
+<p align="center">Backend </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+</p>
+
+---
+<p align="center">Bases de datos </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+</p>
+
+---
+<p align="center">Herramientas y entorno </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+</p>
+
+---
+<p align="center">Estadísticas de GitHub </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidiagarmu&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
