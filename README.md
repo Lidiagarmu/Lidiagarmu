@@ -8,6 +8,7 @@ Soy una desarrolladora web junior creativa y apasionada por el <b>frontend</b> y
 Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y atractivas</b>.
 </p>
 
+---
 
 <p align="center">
 
@@ -21,13 +22,8 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
   <a href="https://portfolio-lidia-seven.vercel.app/" target="_blank">portfolio-lidia-seven.vercel.app</a><br><br>
 
   🔗 También puedes conectar conmigo a través de LinkedIn: 
+  <a href="https://www.linkedin.com/in/lidia-garcia-muñoz" target="_blank">Lidia García Muñoz</a>
 
-  <a href="https://linkedin.com/in/lidia-garcia-muñoz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="50" 
-         height="50" 
-         style="border-radius:50%; box-shadow: 0 0 10px #00FF9F;"/>
-  </a>
 </p>
 
 ---
