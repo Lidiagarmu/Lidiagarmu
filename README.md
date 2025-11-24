@@ -76,39 +76,40 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 </p>
 
 ---
-<p align="center">Herramientas y entorno </p>
-   <!-- Git -->
+<p align="center">Herramientas y entorno</p>
+<p align="center">
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
-  <!-- GitHub -->
+
+  <!-- GitHub blanco sobre fondo negro -->
   <div style="display:inline-block; background:black; border-radius:15%; margin:10px; padding:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="filter: invert(1);"/>
   </div>
 
-  
   <!-- GitLab -->
-  <div style="display:inline-block; background:#f5f5f5; border-radius:15%; margin:10px; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/>
-  </div>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
-  <!-- Vercel -->
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
+
+  <!-- Vercel con icono blanco -->
+  <div style="display:inline-block; background:#00000000; border-radius:15%; margin:10px; padding:5px;">
+    <img src="https://svgmix.com/item/4kEqDp/vercel" width="60" height="60" style="border-radius:15%;"/>
+  </div>
+
   <!-- IntelliJ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
+
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
+
   <!-- Slack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  
-  <!-- Discord -->
+
+  <!-- Discord con icono corregido -->
   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 </p>
+
 
 ---
 <p align="center">Estadísticas de GitHub </p>
