@@ -10,10 +10,18 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 
 
 <p align="center">
-  <em> Conóceme mejor en <b>LinkedIn</b></em>
-</p>
 
-<p align="center">
+  👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>
+
+  💻 Los lenguajes que suelo usar son: JavaScript, TypeScript, PHP, HTML y CSS.<br><br>
+
+  📚 En este momento, me estoy enfocando en profundizar mis conocimientos en AngularJS y perfeccionar mis habilidades en JavaScript, llevando a cabo proyectos personales.<br><br>
+
+  🌐 Puedes conocer más sobre mí en mi porfolio web: 
+  <a href="https://portfolio-lidia-seven.vercel.app/" target="_blank">portfolio-lidia-seven.vercel.app</a><br><br>
+
+  🔗 También puedes conectar conmigo a través de LinkedIn: 
+
   <a href="https://linkedin.com/in/lidia-garcia-muñoz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          width="50" 
@@ -74,11 +82,34 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 ---
 <p align="center">Herramientas y entorno </p>
 <p align="center">
+   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- GitHub -->
+  <div style="display:inline-block; background:black; border-radius:15%; margin:10px; padding:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  </div>
+  
+  <!-- GitLab -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- Vercel -->
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- IntelliJ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- Slack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  
+  <!-- Discord -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 </p>
 
 ---
