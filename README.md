@@ -100,9 +100,6 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 </div>
 
 
-
-
-
 ---
 <p align="center">Estadísticas de GitHub </p>
 <p align="center">
@@ -111,3 +108,21 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 
 ---
 
+
+<p align="center">⭐ Mis repositorios más populares</p>
+
+<p align="center">
+
+  <a href="https://github.com/Lidiagarmu/CoachApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lidiagarmu&repo=CoachApp&theme=dark" alt="CoachApp"/>
+  </a>
+
+  <a href="https://github.com/Lidiagarmu/tasks-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lidiagarmu&repo=tasks-app&theme=dark" alt="Tasks App"/>
+  </a>
+
+  <a href="https://github.com/Lidiagarmu/portfolio-lidia" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lidiagarmu&repo=portfolio-lidia&theme=dark" alt="Portfolio"/>
+  </a>
+
+</p>
