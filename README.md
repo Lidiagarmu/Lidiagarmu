@@ -77,12 +77,13 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 
 ---
 <p align="center">Herramientas y entorno</p>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 
   <!-- GitHub blanco sobre fondo negro -->
-  <div style="display:inline-block; background:black; border-radius:15%; margin:10px; padding:5px;">
+  <div style="display:inline-flex; background:black; border-radius:15%; margin:10px; padding:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="filter: invert(1);"/>
   </div>
 
@@ -92,10 +93,8 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 
-  <!-- Vercel con icono blanco -->
-  <div style="display:inline-block; background:#00000000; border-radius:15%; margin:10px; padding:5px;">
-    <img src="https://svgmix.com/item/4kEqDp/vercel" width="60" height="60" style="border-radius:15%;"/>
-  </div>
+  <!-- Vercel: icono alternativo (SVG oficial) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Vercel_logo_2025.svg" width="60" height="60" style="border-radius:15%; margin:10px;"/>
 
   <!-- IntelliJ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
@@ -106,8 +105,9 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
   <!-- Slack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 
-  <!-- Discord con icono corregido -->
+  <!-- Discord -->
   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+
 </p>
 
 
