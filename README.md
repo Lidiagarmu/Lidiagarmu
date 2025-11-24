@@ -80,33 +80,42 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
-
-  <!-- GitHub blanco sobre fondo negro -->
-  <div style="display:inline-flex; background:black; border-radius:15%; margin:10px; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
+       
+  <!-- GitHub gris sobre fondo negro -->
+  <div style="display:inline-flex; background:black; border-radius:15%; margin:10px; padding:5px; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="filter: brightness(0) invert(0.7);"/>
   </div>
 
+
   <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
-  <!-- Vercel: icono alternativo (SVG oficial) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Vercel_logo_2025.svg" width="60" height="60" style="border-radius:15%; margin:10px;"/>
+  <!-- Vercel (SVG oficial) -->
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Vercel_logo_2025.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
   <!-- IntelliJ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
   <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
   <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
   <!-- Discord -->
-  <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="60" height="60"
+       style="border-radius:15%; margin:10px;"/>
 
 </p>
 
