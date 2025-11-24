@@ -77,17 +77,19 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
 
 ---
 <p align="center">Herramientas y entorno </p>
-<p align="center">
    <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
   
   <!-- GitHub -->
   <div style="display:inline-block; background:black; border-radius:15%; margin:10px; padding:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="filter: invert(1);"/>
   </div>
+
   
   <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <div style="display:inline-block; background:#f5f5f5; border-radius:15%; margin:10px; padding:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/>
+  </div>
   
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
@@ -105,7 +107,7 @@ Me encanta transformar ideas en <b>experiencias digitales limpias, funcionales y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
   
   <!-- Discord -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
+  <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="60" height="60" style="border-radius:15%; margin:10px"/>
 </p>
 
 ---
